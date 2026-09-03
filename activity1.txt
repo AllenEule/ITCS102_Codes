@@ -1,0 +1,16 @@
+#arithmetic operators = mathematical symbols
+# + - addition 
+# - - subtraction 
+# * - multiplication 
+# / - division 
+# // - floor division (round down)
+# ** - exponentation (exponents)
+# % - modulus
+
+
+
+a = 25
+b= 48
+sum = a + b 
+
+print("The sum of a and b is", sum")
