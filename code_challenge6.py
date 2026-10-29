@@ -1,5 +1,5 @@
 a = int(input("Size? ----> "))
-l = 1
+l = 0
 for e in range(a):
     if l != a:
         for n in range(e + 1):
